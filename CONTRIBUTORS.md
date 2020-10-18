@@ -266,3 +266,7 @@
  - Place: Cupertino,CA,USA
  - Bio: Student
  - Github: [jamestacos](https://github.com/jamestacos)
+   #### Name: [Luma Liana](https://github.com/LumaLiana)
+ - Place: São Paulo, SP, Brasil
+ - Bio: Student
+ - Github: [LumaLiana](https://github.com/LumaLiana)
